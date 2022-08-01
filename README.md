@@ -1,4 +1,4 @@
-# Deprecated!
+# Repo Moved!
 
 Note:  This repo is deprecated.  Couchbase.Transactions has been merged into the main Couchbase dotnet repo at https://github.com/couchbase/couchbase-net-client
 
